@@ -1,6 +1,6 @@
 # Data-Analyst-labs
 
-Here are some of my data analytics labs. Below is a list of topics and a brief description for each laboratory:
+Here are some of my data analysis labs. Below is a list of topics and a brief description for each laboratory:
 
 1. Implementation of the Forel clustering algorithm
 2. Selecting the best models and setting parameters for weather time series forecasting and housing price prediction
